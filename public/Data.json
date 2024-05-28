@@ -1,1093 +1,1093 @@
 [
     {
-    "name": "Auth",
-    "info": "info 2",
-    "data": [
-        {
-            "date": "2024-05-01",
-            "status": false
-        },
-        {
-            "date": "2024-05-02",
-            "status": false
-        },
-        {
-            "date": "2024-05-03",
-            "status": false
-        },
-        {
-            "date": "2024-05-03",
-            "status": false
-        },
-        {
-            "date": "2024-05-04",
-            "status": false
-        },
-        {
-            "date": "2024-05-05",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        },  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        }
-    ]   
-},
-
-{
-    "name": "API Gateway ",
-    "info": "info 3",
-    "data": [
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        },  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        }
-    ]   
-},
-
-{
-    "name": "Dashboard",
-    "info": "info 3",
-    "data": [
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        },  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-28",
-            "status": false
-        },
-        {
-            "date": "2024-05-29",
-            "status": false
-        } ,  {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": false
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        },
-        {
-            "date": "2024-05-27",
-            "status": true
-        }
-    ]   
-}
+        "name": "Auth",
+        "info": "info....1",
+        "data": [
+            {
+                "date": "2024-05-01",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-02",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-03",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-03",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-04",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-05",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "Partial outage 3 hrs 24 mins"
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            }
+        ]
+    },
+    {
+        "name": "Management API",
+        "info": "info...2",
+        "data": [
+            {
+                "date": "2024-05-01",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-02",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-03",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-03",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-04",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-05",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-28",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-29",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": false,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": "Major outage 0 hrs 22 mins"
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            },
+            {
+                "date": "2024-05-27",
+                "status": true,
+                "redalert": "",
+                "yelloalert": ""
+            }
+        ]
+    }
 ]
